@@ -1,4 +1,4 @@
-### What's up! 😃
+### What's up! :shipit:
 
  <div align="center">
  

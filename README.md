@@ -7,7 +7,7 @@
 </div>
 
  
-<p> My name is Bryan Zamora, I am a Computer Science student @ UC, Santa Barbara. I am currently working under the supervision of a CS professor, on 3D Image Reconstruction and Computer Vision research. I enjoy Machine Learning, AI, as well as App and Mobile Development </p>
+<p> My name is Bryan Zamora, I am a Computer Science student @ UC, Santa Barbara. I am currently doing research in 3D Image Reconstruction and Computer Vision. I also enjoy web App and Mobile Development </p>
 
  <div align="center">
 

@@ -7,7 +7,7 @@
 </div>
 
  
-<p> My name is Bryan Zamora, I am a Computer Science student @ UC, Santa Barbara. Previously did research analyzing police shooting data, as well as in the Computer Vision field. I also enjoy web App and Mobile Development </p>
+<p> My name is Bryan Zamora, I am a Software Engineer. Previously I have done research in police shooting data, CS education, as well as in the field of Computer Vision. I also enjoy working on web, and mobile Development projects </p>
 
  <div align="center">
 

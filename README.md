@@ -6,13 +6,14 @@
 
 </div>
 
+
  
 <p> My name is Bryan Zamora, I am a Software Engineer. Previously I have done research in police shooting data, CS education, as well as in the field of Computer Vision. I also enjoy working on web, and mobile Development projects </p>
 
  <div align="center">
 
 
-![bzamora020's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzamora020&show_icons=true&theme=monokai&count_private=true&include_all_commits=true&border_color=#cc215f)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzamora020)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
  

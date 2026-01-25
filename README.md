@@ -28,7 +28,7 @@ Thank you for visiting my profile!
  
  <div align="center">
  
-![Visitor Count](https://profile-counter.glitch.me/{bzamora020}/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bzamora020)
  
 </div>
 
